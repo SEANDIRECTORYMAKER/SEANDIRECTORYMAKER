@@ -9,3 +9,5 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gkb6un23rhggz4bgomlz2lgjpa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color_cover=true&bar_color=53b14f">
   </a>
 </p>
+
+            　　　　　　　　
