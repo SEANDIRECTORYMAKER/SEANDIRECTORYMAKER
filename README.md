@@ -12,5 +12,5 @@
 
 
 <p align="center">
-  <img src="https://cdn.corenexis.com/f/7gez7NlqD7Q.png" width="200"/>
+  <img src="https://cdn.corenexis.com/f/7gez7NlqD7Q.png" width="350"/>
 </p>
